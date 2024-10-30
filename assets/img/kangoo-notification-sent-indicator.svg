@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 79.374998 79.375002"
+   version="1.1"
+   id="svg4528"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="kangoo-notification-sent-indicator.svg">
+  <defs
+     id="defs4522" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="197.14523"
+     inkscape:cy="185.26763"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4525">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-217.62498)">
+    <g
+       style="display:inline"
+       id="g4626"
+       transform="matrix(15.493901,0,0,15.887806,-366.02044,-326.06699)">
+      <g
+         style="opacity:1"
+         id="g4574">
+        <path
+           d="m 25.637281,39.158901 a 2.5614917,2.4979849 0 0 1 -1.972,-2.889452 2.5614917,2.4979849 0 0 1 2.892775,-2.022108 2.5614917,2.4979849 0 0 1 2.172542,2.749268 2.5614917,2.4979849 0 0 1 -2.742162,2.212702"
+           sodipodi:open="true"
+           sodipodi:end="1.6476135"
+           sodipodi:start="1.7862921"
+           sodipodi:ry="2.4979849"
+           sodipodi:rx="2.5614917"
+           sodipodi:cy="36.718693"
+           sodipodi:cx="26.185009"
+           sodipodi:type="arc"
+           id="path4621"
+           style="opacity:1;fill:#73a724;fill-opacity:1;stroke:none;stroke-width:9.01720619;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="kangoo icon"
+     transform="translate(0,-217.62498)">
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.61162847"
+       inkscape:connector-curvature="0"
+       d="m 63.905963,240.27322 v -4.34744 h -0.837369 c -3.002001,0 -4.860088,2.50584 -4.860088,4.82756 v 2.80007 c 0,0.71432 -1.204972,1.63469 -2.220301,2.17361 -5.352991,-3.8086 -10.058279,-7.03985 -16.858266,-7.03985 -7.615379,0 -13.206893,6.24717 -15.862052,9.97139 -0.267329,0.37605 -0.535176,0.7521 -0.799404,1.12713 -4.163337,5.87776 -8.095493,11.42952 -15.0852257,11.42952 l -0.3517243,1.58604 c 3.138203,1.44882 9.170807,0.30391 10.348717,0.0604 4.471047,-0.92711 7.953615,-3.00432 11.523128,-6.89735 l 3.693639,2.71443 -7.438596,7.31508 3.256204,12.70536 0.803889,-0.19036 c 1.338893,-0.31859 3.604894,-1.40258 3.604894,-3.44213 v -6.49191 c 0.49134,-0.20088 1.270548,-0.52533 2.095317,-0.89104 5.516973,-2.44467 8.277213,-5.35601 8.614194,-9.11265 h 5.255763 l 1.708917,6.74933 0.762979,-0.12771 c 1.324217,-0.22401 3.566287,-1.14733 3.566287,-3.18228 v -3.58066 c 2.8588,-0.38969 4.520029,-2.8814 7.562304,-7.95727 l 8.445408,-1.6851 1.508884,-3.67588 z"
+       id="path952"
+       sodipodi:nodetypes="ccssscsccccccccccsccccccsccccc" />
+  </g>
+</svg>

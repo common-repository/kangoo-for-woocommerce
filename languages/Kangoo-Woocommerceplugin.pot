@@ -1,0 +1,100 @@
+# Copyright (C) 2017 Kangoo for WooCommerce
+# This file is distributed under the same license as the Kangoo for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kangoo for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/Kangoo-"
+"Woocommerceplugin\n"
+"POT-Creation-Date: 2017-08-16 02:48:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: Kangoo-Woocommerceplugin.php:113
+msgid ""
+"The plugin <strong>\"%s\"</strong> needs the plugin <strong>\"%s\"</strong> "
+"active"
+msgstr ""
+
+#: Kangoo-Woocommerceplugin.php:118 Kangoo-Woocommerceplugin.php:160
+msgid "<strong>%s has been deactivated</strong>"
+msgstr ""
+
+#: Kangoo-Woocommerceplugin.php:153
+msgid ""
+"The plugin <strong>\"%s\"</strong> needs the <strong>version %s</strong> or "
+"newer of <strong>\"%s\"</strong>"
+msgstr ""
+
+#: includes/controller.php:145
+msgid "Authentication failed. Check your credentials and try again."
+msgstr ""
+
+#: includes/controller.php:492
+msgid "Start writing and select the address from the list"
+msgstr ""
+
+#: includes/kangoo-shipping-method.php:44
+msgid "Kangoo Shipping"
+msgstr ""
+
+#: includes/kangoo-shipping-method.php:45
+msgid "Custom Shipping Method for Kangoo"
+msgstr ""
+
+#: includes/kangoo-shipping-method.php:67
+msgid "Same Day Delivery by Kangoo"
+msgstr ""
+
+#: includes/kangoo-shipping-method.php:134
+msgid "Enable"
+msgstr ""
+
+#: includes/kangoo-shipping-method.php:136
+msgid "Enable this shipping."
+msgstr ""
+
+#: includes/kangoo-shipping-method.php:140
+msgid "Kangoo email account"
+msgstr ""
+
+#: includes/kangoo-shipping-method.php:142
+msgid "Kangoo email address"
+msgstr ""
+
+#: includes/kangoo-shipping-method.php:145
+msgid "Kangoo password account"
+msgstr ""
+
+#: includes/kangoo-shipping-method.php:147
+msgid "Kangoo password"
+msgstr ""
+
+#: includes/kangoo-shipping-method.php:150
+msgid "Enter your store's location"
+msgstr ""
+
+#: includes/kangoo-shipping-method.php:152
+msgid "Store Location"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Kangoo for WooCommerce"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin adds a new shipping method in your WooCommerce checkout to "
+"communicate with our service"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kangoo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://bykangoo.com/"
+msgstr ""

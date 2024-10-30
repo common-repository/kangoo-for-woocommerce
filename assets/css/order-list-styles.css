@@ -1,0 +1,36 @@
+/**
+ * @since  1.0.0
+ */
+.order_actions .kangoo_ready_to_pick_up{
+  background-color: #2A3E56;
+  color: white;
+  height: 2.2em !important;
+  text-indent: -9999px;
+  width: 2.2em;
+}
+
+/**
+ * @since  1.0.0
+ */
+.order_actions .kangoo_ready_to_pick_up:hover{
+  background-color: #223245;
+}
+
+/**
+ * @since  1.0.0
+ */
+#kangoo_icon{
+  height: 100%;
+  margin-left: 0;
+  margin-top: -25px;
+  width: 100%;
+}
+
+/**
+ * @since  1.0.0
+ */
+#kangoo_notification_sent_indicator{
+  height: 1.5em;
+  padding: 5px;
+  width: 1.5em;
+}
